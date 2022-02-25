@@ -9,5 +9,5 @@ A script that removes all non apple apps from the booted simulator
 # Usage
 Run this command on the shell
 ```
-$ export PATH="/Users/rathore/scripts:$PATH"
+$ remove-all-apps-from-booted-simulator.swift
 ```
